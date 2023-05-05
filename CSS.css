@@ -1,0 +1,46 @@
+div{
+    color: rgba(11, 20, 34, 0.918);
+}
+li{
+    color: rgb(109, 82, 49);
+}
+::marker{
+    color: #4e50d8;
+}
+
+body {
+    background-image: url("imagen.jpg");
+    font-weight: bold;
+  }
+.card{
+    background-image: url("imagen4.jpg");
+}
+
+
+
+
+#welcome, #sobremi, #education{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(10, 135, 167);
+    
+}
+h5, .m-3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(10, 135, 167);
+    
+}
+
+.icono1{
+    width: 25px;
+    height: 25px;
+}
+.icono0{
+    width: 30px;
+    height: 30px;
+}
+
+li, ul{
+    background-image: url("imagen4.jpg");
+    font-weight: bold;
+}
